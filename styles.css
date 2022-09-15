@@ -1,0 +1,35 @@
+body{
+  background-color:	#d6e2f0;
+  margin-left: 0;
+  line-height: 1.5;
+}
+.main{
+  margin:100px auto ;
+  border-radius: 8px;
+  width:450px;
+  height: auto;
+  background-color: white;
+}
+
+.content{
+  color:#7b879d;
+
+  width: 300px;
+  font-family: 'Outfit', sans-serif;
+  padding-bottom: 30px;
+  font-size: 20px;
+}
+
+h2{
+  width: 350px;
+  font-size: 26px;
+  font-family: 'Outfit', sans-serif;
+}
+
+img{
+  margin: 30px 50px 25px 50px;
+  width:350px;
+  height:350px;
+  border-radius: 8px;
+
+}
